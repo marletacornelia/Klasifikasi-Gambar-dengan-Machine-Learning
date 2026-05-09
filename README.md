@@ -31,7 +31,6 @@ Tahapan preprocessing dataset meliputi:
 - Normalization
 - Label encoding
 - Data cleaning
-- Data augmentation *(jika digunakan)*
 
 ---
 
@@ -45,7 +44,6 @@ Tools dan library yang digunakan dalam project ini:
 - Matplotlib
 - OpenCV
 - Scikit-Learn
-- TensorFlow / Keras *(jika digunakan)*
 - Jupyter Notebook
 - Google Colab
 
